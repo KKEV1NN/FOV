@@ -1,0 +1,4 @@
+WASD to move around the green ball
+
+K to grip the blue Cubes
+L to drop the blue Cubes
